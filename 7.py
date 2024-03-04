@@ -1,6 +1,7 @@
+# Insert the numbers in the format (a+bj)
 
-str1 = input() # a + bj
-str2 = input() # c + dj
+str1 = input() 
+str2 = input() 
 
 z1 = complex(str1)
 z2 = complex(str2)

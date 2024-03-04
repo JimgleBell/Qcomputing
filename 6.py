@@ -1,3 +1,5 @@
+# Insert the numbers in the format (a+bj)
+
 z1 = input()
 z2 = input()
 

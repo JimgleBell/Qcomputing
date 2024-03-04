@@ -1,5 +1,6 @@
+# Insert the numbers in the format (a+bj)
 
-z1 = complex(input())
+z1 = complex(input()) 
 z2 = complex(input())
 z3 = complex(input())
 
